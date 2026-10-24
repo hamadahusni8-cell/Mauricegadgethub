@@ -1,4 +1,4 @@
--- Seed data for categories
+hamada-- Seed data for categories
 
 insert into public.categories (id, name, slug, description, sort_order, is_active)
 values 
