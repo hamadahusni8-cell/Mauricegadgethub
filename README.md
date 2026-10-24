@@ -1,4 +1,4 @@
-# Maurice Gadgets Hub - Phase 0 Project Scaffolding
+hamada# Maurice Gadgets Hub - Phase 0 Project Scaffolding
 
 This project has been set up with Next.js 15, TypeScript, Tailwind CSS, and Supabase integration.
 
